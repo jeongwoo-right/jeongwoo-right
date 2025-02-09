@@ -20,28 +20,26 @@
 ### 💼 Experience
 - **前 성균관대학교 사범대학 부학생회장**  
 - **前 성균관대학교 수학교육과 부학생회장**  
-- **前 공군 교육사령부 항공과학고등학교** 교무과 행정병
+- 前 공군 교육사령부 항공과학고등학교 교무과 행정병
 
 ### 📜 Certifications
 - **중등정교사자격증 2급(정보•컴퓨터, 수학)**
 - **정보처리기사**
 - **SQLD**
 - **ADSP**
-- **빅데이터분석기사(필기)**
-- **컴퓨터활용능력 1급**
-- **AI-900: Microsoft Azure AI Fundamentals**
-- **Microsoft Office Specialist 2016 Master**
+- 빅데이터분석기사(필기)
+- 컴퓨터활용능력 1급
+- AI-900: Microsoft Azure AI Fundamentals
+- Microsoft Office Specialist 2016 Master
 
-
-
+### 🎵 Hobbies & Interests
+- 🏃 러닝 | 🏋️‍♂️ 헬스 | 🧗 클라이밍 | 🌄 등산  
+- 🎧 음악 감상  
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Algorithm Tier
-<p align="center">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jwkim0405" alt="Baekjoon Tier" />
-</p>
+## 💻 My Developer Journey
 
 ### 🛠 Tech Stack
 <p align="center">
@@ -59,13 +57,17 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
+### 🎯 Algorithm Tier
+<p align="center">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jwkim0405" alt="Baekjoon Tier" />
+  <img src="http://mazandi.herokuapp.com/api?handle=jwkim0405&theme=warm"/></p>
+
+
 ### 📚 Recent Projects
-- 🚀 **[CALOG](https://github.com/calog-sport-schedule-tracker/ReadMe)** – **운동 대회 일정 안내 및 기록 서비스**
+- 🗓️ **[CALOG](https://github.com/calog-sport-schedule-tracker/ReadMe)** – **운동 대회 일정 안내 및 기록 서비스**
  
 
-### 🎵 Hobbies & Interests
-- 🏃 러닝 | 🏋️‍♂️ 헬스 | 🧗 클라이밍 | 🌄 등산  
-- 🎧 음악 감상  
+
 
 ### 📫 Let's Connect!
 <p align="left">
