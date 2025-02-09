@@ -1,6 +1,4 @@
 <div align="center">
-
-<img src="https://github.com/jwkim0405.png" width="150" height="150" alt="Profile Picture" style="border-radius: 50%;" />
 <h1>Hi there, I'm Jeongwoo Kim! 👋</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=1D9BF0&center=true&width=500&lines=Always+Learning+%7C+Problem+Solver" alt="Typing SVG" />
 
