@@ -5,12 +5,11 @@
 </div>
 
 ---
-
-## 🏆 My Profile
 <table>
 <tr>
 <td width="50%" valign="top">
 
+## 📝 About Me
 ### 🎓 Education
 - **삼성SDS SCSA(Samsung Covergence SW Academy) 24기**  
 - **삼성청년SW아카데미 (SSAFY) 12기** | Java 과정  
