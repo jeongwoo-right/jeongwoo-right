@@ -10,31 +10,29 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  
-### 📝 About Me
 
-#### 🎓 Education
+### 🎓 Education
 - **삼성SDS SCSA(Samsung Covergence SW Academy) 24기**  
 - **삼성청년SW아카데미 (SSAFY) 12기** | Java 과정  
 - **성균관대학교** | 수학교육과, 컴퓨터교육과 졸업  
 - **성균관대학교 인공지능교육** 마이크로디그리 이수
 - **LG Aimers 4기**  
 
-#### 💼 Experience
+### 💼 Experience
 - **前 성균관대학교 사범대학 부학생회장**  
 - **前 성균관대학교 수학교육과 부학생회장**  
 - **前 공군 교육사령부 항공과학고등학교** 교무과 행정병
 
-#### 📜 Certifications
-- 중등정교사자격증 2급(정보•컴퓨터, 수학)  
-- 정보처리기사
-- SQLD
-- ADSP  
-- 빅데이터분석기사(필기)
-- 컴퓨터활용능력 1급  
-- Microsoft Office Specialist 2016 Master  
-- AI-900: Microsoft Azure AI Fundamentals  
-- 한국사능력검정시험 1급  
+### 📜 Certifications
+- **중등정교사자격증 2급(정보•컴퓨터, 수학)**
+- **정보처리기사**
+- **SQLD**
+- **ADSP**
+- **빅데이터분석기사(필기)**
+- **컴퓨터활용능력 1급**
+- **AI-900: Microsoft Azure AI Fundamentals**
+- **Microsoft Office Specialist 2016 Master**
+
 
 
 
@@ -63,7 +61,7 @@
 </p>
 
 ### 📚 Recent Projects
-- 🚀 **[CALOG](https://github.com/calog-sport-schedule-tracker/ReadMe)** – 운동 대회 일정 안내 및 기록 서비스  
+- 🚀 **[CALOG](https://github.com/calog-sport-schedule-tracker/ReadMe)** – **운동 대회 일정 안내 및 기록 서비스**
  
 
 ### 🎵 Hobbies & Interests
