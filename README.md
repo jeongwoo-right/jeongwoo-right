@@ -64,6 +64,7 @@
 
 
 ### 📚 Recent Projects
+- 📌 **[SCSAC](https://github.com/jeongwoo-right/scsac)** – **SCSA 내부 게시판 서비스**
 - 🗓️ **[CALOG](https://github.com/calog-sport-schedule-tracker/ReadMe)** – **운동 대회 일정 안내 및 기록 서비스**
  
 
