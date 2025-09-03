@@ -58,19 +58,15 @@
 
 ### 🛠 Tech Stack
 #### ⚙️ Programming Languages
-##### - C, Java, Python, JavaScript, TypeScript
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,js,ts)](https://skillicons.dev)
 
 #### 🎨 Frontend
-##### - HTML, CSS, JavaScript, TypeScript, React, Vue
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue)](https://skillicons.dev)
 
 #### ⚙️ Backend
-##### - Java, Spring, SpringBoot
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 #### 🗄️ DB & Version Control, Collaboration
-##### - MySQL, Git, Github, Notion
 [![My Skills](https://skillicons.dev/icons?i=mysql,git,github,notion)](https://skillicons.dev)
 
 </td>
