@@ -41,45 +41,37 @@
 
 ## 💻 My Developer Journey
 
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-
-</p>
-
 ### 🎯 Algorithm Tier
 <p align="center">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jwkim0405" alt="Baekjoon Tier" />
-  <img src="http://mazandi.herokuapp.com/api?handle=jwkim0405&theme=warm"/></p>
-
 
 ### 📚 Recent Projects
-- 🧗‍♂️ **[CLIMBFIT](https://github.com/jeongwoo-right/climbfit)** – **클라이밍 운동 기록/관리 앱(Android PJT)**
 
-- 📌 **[SCSAC](https://github.com/jeongwoo-right/scsac)** – **SCSA 내부 게시판 서비스**
-- 🗓️ **[CALOG](https://github.com/calog-sport-schedule-tracker/ReadMe)** – **운동 대회 일정 안내 및 기록 서비스**
- 
+| 프로젝트 | 설명 | PJT 유형 |
+|----------|------|--------------|
+| 🏡 [Be My Guest](https://github.com/jeongwoo-right/be-my-guest) | 게스트하우스 검색 및 예약 서비스 |`Web`|
+| 🧗‍♂️ [CLIMBFIT](https://github.com/jeongwoo-right/climbfit) | 클라이밍 운동 기록/관리 앱 | `Android` |
+| 📌 [SCSAC](https://github.com/jeongwoo-right/scsac) | SCSA 내부 게시판 서비스 | `Web` |
+| 🗓️ [CALOG](https://github.com/calog-sport-schedule-tracker/ReadMe) | 운동 대회 일정 안내 및 기록 서비스 | `Web` |
 
 
 
-### 📫 Let's Connect!
-<p align="left">
-  <a href="mailto:jeongwoocode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  </a>
-</p>
+### 🛠 Tech Stack
+#### ⚙️ Programming Languages
+##### - C, Java, Python, JavaScript, TypeScript
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,js,ts)](https://skillicons.dev)
+
+#### 🎨 Frontend
+##### - HTML, CSS, JavaScript, TypeScript, React, Vue
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue)](https://skillicons.dev)
+
+#### ⚙️ Backend
+##### - Java, Spring, SpringBoot
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+
+#### 🗄️ DB & Version Control, Collaboration
+##### - MySQL, Git, Github, Notion
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,github,notion)](https://skillicons.dev)
 
 </td>
 </tr>
